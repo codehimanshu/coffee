@@ -455,9 +455,11 @@ strong {
   color: var(--white-color);
 }
 
+/*
 .navbar .navbar-brand-image {
   filter: brightness(0) invert(1);
 }
+*/
 
 .navbar-brand-image {
   width: 48px;
@@ -636,7 +638,7 @@ strong {
   HERO        
 -----------------------------------------*/
 .hero-section {
-  background-image: url('../images/anna-rosar-ZxFyVBHMK-c-unsplash.jpg');
+  background-image: url('../images/bg.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
